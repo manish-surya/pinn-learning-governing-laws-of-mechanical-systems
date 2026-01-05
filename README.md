@@ -1,8 +1,3 @@
-Below is a **publication-quality, developer-ready README.md** you can place directly at the root of the project repository.
-It is written to satisfy **academic reviewers, collaborators, and technically strong users**.
-
----
-
 # Physics-Informed Neural Networks (PINNs) for 1D Elasticity
 
 ## Overview
@@ -250,13 +245,4 @@ Please reach out directly.
 This project is provided for **academic and research use**.
 You are free to modify, extend, and redistribute with attribution.
 
----
 
-If you want, I can now:
-
-* Convert this into a **GitHub-ready repository**
-* Add **unit tests**
-* Write a **Methods section for a paper**
-* Extend the README for **beam bending or experimental data**
-
-Just say the word.
